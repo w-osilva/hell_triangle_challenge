@@ -30,7 +30,7 @@ We are interested in your solution considering:
 
 
 
-## About resolution
+## About Solution
   
 ### Language choice
 I used Ruby ​​because I'm more familiar and because it's the language I like to work with.
